@@ -3,7 +3,7 @@ Simple VBA + form to create drafts or scheduled emails in Outlook
 
 Create Outlook messages and either store as drafts or push directly to outbox with a scheduled email data. Sample excel sheet included as well.
 
-Does not update email dynamically; Sends one template to multiple address; Can specify CC, and up to 2 attachments.
+Does not update email dynamically; Sends one template to multiple addresses; Can specify CC, and up to 2 attachments.
 
 Tested in Windows Excel 2013 / Outlook 2013 and Windows Excel 2016 / Outlook
 
