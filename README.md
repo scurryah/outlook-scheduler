@@ -13,5 +13,5 @@ Tested in Windows Excel 2013 / Outlook 2013 and Windows Excel 2016 / Outlook
 - **Schedule** Generates drafts then schedules them to be sent. Must send a test draft first. 
 
 # Installation
-1. Download the .bas file and import to existing Excel workbook OR use the outlook-scheduler-template
+1. Download the emailSendoutModule.bas file and import to existing Excel workbook OR use the outlook-scheduler-template.xlsx
 2. Add the Microsoft Outlook 2016 reference through VBA --> Tools --> References
