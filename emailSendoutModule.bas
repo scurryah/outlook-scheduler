@@ -15,7 +15,7 @@ Public Sub EmailSendout()
     Dim Attach1 As String
     Dim Attach2 As String
     
-'   Userform support variables #AHBS
+'   Userform support variables
     Dim From As String
     Dim TemplatePath As String
     Dim lrow As Long
@@ -180,7 +180,7 @@ Public Sub TestSendout()
     
     TestEmailAddr = InputBox("Enter the email address for testing", "Test Email Sendout", "gmail.com")
 
-'   Userform support variables #AHBS
+'   Userform support variables
     Dim From As String
     Dim TemplatePath As String
 
